@@ -16,7 +16,7 @@
   "config": [
     {
       "option": "wallpaper",
-      "val": "https://w.wallhaven.cc/full/xl/wallhaven-xl2j6o.jpg"
+      "val": "https://github.com/kavulox/dotfiles/raw/master/wallpapers/ring.jpg"
     },
     {
       "option": "scripts",
